@@ -1,28 +1,15 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-amplifyproblem-dev-141757-authRole",
-      "UnauthRoleArn": "arn:aws:iam::584370402002:role/amplify-amplifyproblem-dev-141757-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::584370402002:role/amplify-amplifyproblem-dev-141757-authRole",
+      "AuthRoleName": "amplify-amplifyproblem-dev-144515-authRole",
+      "UnauthRoleArn": "arn:aws:iam::584370402002:role/amplify-amplifyproblem-dev-144515-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::584370402002:role/amplify-amplifyproblem-dev-144515-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-amplifyproblem-dev-141757-deployment",
-      "UnauthRoleName": "amplify-amplifyproblem-dev-141757-unauthRole",
-      "StackName": "amplify-amplifyproblem-dev-141757",
-      "StackId": "arn:aws:cloudformation:us-east-1:584370402002:stack/amplify-amplifyproblem-dev-141757/95c72ce0-3be5-11eb-8ef6-12312be5d5ed",
-      "AmplifyAppId": "d3hpd84dk8z31k"
-    }
-  },
-  "test": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-amplifyproblem-test-142932-authRole",
-      "UnauthRoleArn": "arn:aws:iam::584370402002:role/amplify-amplifyproblem-test-142932-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::584370402002:role/amplify-amplifyproblem-test-142932-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-amplifyproblem-test-142932-deployment",
-      "UnauthRoleName": "amplify-amplifyproblem-test-142932-unauthRole",
-      "StackName": "amplify-amplifyproblem-test-142932",
-      "StackId": "arn:aws:cloudformation:us-east-1:584370402002:stack/amplify-amplifyproblem-test-142932/333e57e0-3be7-11eb-90f6-0e6c28966f7b",
-      "AmplifyAppId": "d3hpd84dk8z31k"
+      "DeploymentBucketName": "amplify-amplifyproblem-dev-144515-deployment",
+      "UnauthRoleName": "amplify-amplifyproblem-dev-144515-unauthRole",
+      "StackName": "amplify-amplifyproblem-dev-144515",
+      "StackId": "arn:aws:cloudformation:us-east-1:584370402002:stack/amplify-amplifyproblem-dev-144515/677b1370-3be9-11eb-8f0b-0af6b1cd0899",
+      "AmplifyAppId": "d2olcw5n1vvvka"
     }
   }
 }
